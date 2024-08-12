@@ -1,0 +1,7 @@
+.header{
+    font-size:55px ;
+
+    h1 {
+        font-size: 23px;
+    }
+}
